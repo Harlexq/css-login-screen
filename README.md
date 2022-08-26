@@ -1,1 +1,1 @@
-# admin-panel
+# cc-login-screen
